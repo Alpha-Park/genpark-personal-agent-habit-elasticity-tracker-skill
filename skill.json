@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-habit-elasticity-tracker-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Habit Elasticity Tracker - Zero-dependency Lally habit automaticity kinetics modeler, behavioral friction price elasticity analyzer, and minimum viable micro-habit scaling engine.",
+  "tools": [
+    "model_habit_automaticity_curve",
+    "evaluate_behavioral_friction_elasticity",
+    "derive_minimum_viable_micro_habit"
+  ]
+}
